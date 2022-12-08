@@ -6,7 +6,9 @@
         "email":"a@gmail.com",
         "password":"123",
         "username":"sanj1997",
-        "avatar":"https://i.pravatar.cc/150?img=3"
+        "avatar":"https://i.pravatar.cc/150?img=3",
+        "followers":50000,
+        "following":4000
       }
   ],
   "posts":[
