@@ -2,7 +2,7 @@
   "user":[
       {
         "id":1,
-        "fullName":"Js Sanjay",
+        "fullname":"Js Sanjay",
         "email":"a@gmail.com",
         "password":"123",
         "username":"sanj1997",
